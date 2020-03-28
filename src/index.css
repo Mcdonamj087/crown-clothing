@@ -1,5 +1,9 @@
 @import '../node_modules/reset-css/';
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
   padding: 20px 50px;
